@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Eliza</string>
+    <string name="enter_message">Enter message...</string>
+    <string name="reset">Reset Chat</string>
+    <string name="choice_msg">Who would you like to talk to?</string>
+    <string name="eliza">Eliza</string>
+    <string name="deborah">Deborah</string>
+    <string name="change_bot">Change Bot</string>
+    <string name="options_menu_text">What would you like to do?</string>
+    <string name="back">Back</string>
+    <string name="loading_deborah">Loading Deborah...</string>
+</resources>
